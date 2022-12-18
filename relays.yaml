@@ -33,6 +33,7 @@ relays:
   - 'wss://relay.farscapian.com'
   - 'wss://astral.ninja'
   - 'wss://relay.sovereign-stack.org'
+  - 'wss://nostr.fmt.wiz.biz'
   - 'wss://nostr.sandwich.farm'
   - 'wss://nostr.zebedee.cloud'
   - 'wss://nostr-2.zebedee.cloud'
